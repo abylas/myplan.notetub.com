@@ -79,10 +79,10 @@ return array(
 		
 /*production-settings*/
                 'db'=>array(
-                        'connectionString' => 'mysql:host=localhost;dbname=notetubc_dns',
+                        'connectionString' => 'mysql:host=localhost;dbname=notetubc_mp',
                         'emulatePrepare' => true,
-                        'username' => 'notetubc_root',
-                        'password' => 'root1',
+                        'username' => 'notetubc_vg',
+                        'password' => 'vigil',
                         'charset' => 'utf8',
             'tablePrefix' => 'tbl_',
                 ),
